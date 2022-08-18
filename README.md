@@ -8,8 +8,8 @@
 1. Create your own GitHub profile/ID (appropriate for job or grad school applications)  
 2. Create a new repo & initialize it with a "README" 
 3. Go to Olivia Beck's GitHub-Practice-184 repo (that generated this page)  
-    - There's a "View on GitHub" button somewhere on this page, or you can just search GitHub for "olbeck" and find the repo
-    - "Fork" Olivia's class repo to create your own copy to edit
+    - Search GitHub for "olbeck" and find the appropriate repo
+    - Fork Olivia's repo to create your own copy to edit
     - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `olbeck`
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 4. **Add a row** in your copy of the table below with your information 
@@ -29,9 +29,8 @@
     - Describe the change again (e.g. "added Matt Beckman to class table")
     - Click the green button "Create pull request"
     - Job done!
-6. (ungraded) pat yourself on the back
  
-**Important**: Your entry may NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
+**Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (Olivia) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
 <br>
 
