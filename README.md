@@ -39,9 +39,9 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Darby Gluscevich-Kepner | Section 002       | gluscevich           | https://github.com/gluscevich/GitHub-Practice-184        |  
+| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
-     
+| Darby Gluscevich-Kepner | Section 002       | gluscevich           | https://github.com/gluscevich/GitHub-Practice-184        |  
 
 
 
