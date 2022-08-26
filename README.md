@@ -41,7 +41,8 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
-     
+| Stuart Vas              | Section 002       | sv101                | https://github.com/sv101/GitHub-Practice-184/            |  
+ 
 
 
 
