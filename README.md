@@ -41,7 +41,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
-| Louis Natale            | Section 002       | LouNat23             | 
+| Louis Natale            | Section 002       | LouNat23             | https://github.com/LouNat23/-LouNat23-GitHub-Practice-184 |
 
 
 
