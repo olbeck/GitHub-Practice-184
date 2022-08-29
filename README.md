@@ -42,10 +42,11 @@
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Avi Singh               | Section 002       | avisingh26           | https://github.com/avisingh26/Stat184-GitHub-Practice    |
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
+| Brady Miller            | Section 002       | bradymiller23        | https://github.com/bradymiller23/GitHub-Practice-184     |
 | Finnian Thompson        | Section 002       | FinnThompson         | https://github.com/FinnThompson/Stat184-Github-Practice  |
 | Maggie Whalen           | Section 002       | maggiewhalen         | https://github.com/maggiewhalen/GitHub-Practice-184      |   
 | Apurva Sista            | Section 002       | apurva-sista         | https://github.com/apurva-sista/GitHub-Practice-184      |
-| Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git   
+| Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git    | 
 
 
 
