@@ -41,6 +41,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
+| Marc Hughes             | Section 002       | MarcVHughes          | https://github.com/MarcVHughes/Homework1-GitHubPractice 
 | Darby Gluscevich-Kepner | Section 002       | gluscevich           | https://github.com/gluscevich/GitHub-Practice-184        |  
 | Brian MacCurtin         | Section 002       | BrianMacCurtin       | https://github.com/BrianMacCurtin/HW1  
 | Brady Miller            | Section 002       | bradymiller23        | https://github.com/bradymiller23/GitHub-Practice-184     |
