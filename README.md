@@ -39,11 +39,17 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Stuart Vas              | Section 002       | sv101                | https://github.com/sv101/STAT184_HW1                     |  
-
-
+| Marc Hughes             | Section 002       | MarcVHughes          | https://github.com/MarcVHughes/Homework1-GitHubPractice 
+| Darby Gluscevich-Kepner | Section 002       | gluscevich           | https://github.com/gluscevich/GitHub-Practice-184        |  
+| Brian MacCurtin         | Section 002       | BrianMacCurtin       | https://github.com/BrianMacCurtin/HW1  
+| Brady Miller            | Section 002       | bradymiller23        | https://github.com/bradymiller23/GitHub-Practice-184     |
+| Finnian Thompson        | Section 002       | FinnThompson         | https://github.com/FinnThompson/Stat184-Github-Practice  |
+| Maggie Whalen           | Section 002       | maggiewhalen         | https://github.com/maggiewhalen/GitHub-Practice-184      |   
+| Apurva Sista            | Section 002       | apurva-sista         | https://github.com/apurva-sista/GitHub-Practice-184      |
+| Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git    | 
 
 
 
