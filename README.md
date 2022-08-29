@@ -48,7 +48,8 @@
 | Finnian Thompson        | Section 002       | FinnThompson         | https://github.com/FinnThompson/Stat184-Github-Practice  |
 | Maggie Whalen           | Section 002       | maggiewhalen         | https://github.com/maggiewhalen/GitHub-Practice-184      |   
 | Apurva Sista            | Section 002       | apurva-sista         | https://github.com/apurva-sista/GitHub-Practice-184      |
-| Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git    | 
+| Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git    |
+| Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 
 
 
