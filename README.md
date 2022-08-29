@@ -39,9 +39,9 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Avi Singh               | Section 002       | avisingh26           | https://github.com/avisingh26/Stat184-GitHub-Practice    |
+| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
+| Darby Gluscevich-Kepner | Section 002       | gluscevich           | https://github.com/gluscevich/GitHub-Practice-184        |  
 | Brian MacCurtin         | Section 002       | BrianMacCurtin       | https://github.com/BrianMacCurtin/HW1  
 | Brady Miller            | Section 002       | bradymiller23        | https://github.com/bradymiller23/GitHub-Practice-184     |
 | Finnian Thompson        | Section 002       | FinnThompson         | https://github.com/FinnThompson/Stat184-Github-Practice  |
