@@ -40,8 +40,8 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
-     
+| Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184 
+| Chinmay Ghaskadbi       | Section 002       | Chinmay-Ghaskadbi    | https://github.com/Chinmay-Ghaskadbi 
 
 
 
