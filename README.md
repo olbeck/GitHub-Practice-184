@@ -58,7 +58,7 @@
 | Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git       |
 | Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 | Mohamed Talib Almarri   | Section 002       | m7mdalmarri          | https://github.com/m7mdalmarri/HW-1                      |
-| Sanchita Bhusari        | Section 002       | sanchitabhusari      | https://github.com/sanchitabhusari/GitHub-Practice-184   |
+| Sanchita Bhusari        | Section 002       | sanchitabhusari      | https://github.com/sanchitabhusari/Github-Practice       |
 
 
 <br>
