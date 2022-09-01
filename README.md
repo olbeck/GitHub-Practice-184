@@ -59,6 +59,9 @@
 | Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 | Mohamed Talib Almarri   | Section 002       | m7mdalmarri          | https://github.com/m7mdalmarri/HW-1                      |
 | Akash Koneru            | Section 002       | studentgithub24      | https://github.com/studentgithub24/GitHub-Practice-184   |  
+| Anthony Landmesser      | Section 002       | AnthonyLandmesser    | https://github.com/AnthonyLandmesser/GitHub-Practice-184
+| Daniel Dawson           | Section 002       | djd6132              | https://github.com/djd6132/GitHub-Practice-184           |
+| Elijah Aaron            | Section 002       | era611               | https://github.com/era611/GitHub-Practice-184            |
 
 
 <br>
