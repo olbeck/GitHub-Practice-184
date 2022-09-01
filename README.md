@@ -59,6 +59,7 @@
 | Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 | Mohamed Talib Almarri   | Section 002       | m7mdalmarri          | https://github.com/m7mdalmarri/HW-1                      |
 | Daniel Dawson           | Section 002       | djd6132              | https://github.com/djd6132/GitHub-Practice-184           |
+| Elijah Aaron            | Section 002       | era611               | https://github.com/era611/GitHub-Practice-184            |
 
 
 <br>
