@@ -40,7 +40,9 @@
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
-| Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
+| Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184 
+| Chinmay Ghaskadbi       | Section 002       | Chinmay-Ghaskadbi    | https://github.com/Chinmay-Ghaskadbi 
+| Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Madeleine Willson         | Section 002       | maddwillson            | https://github.com/madddwillson                      |       
 | Louis Natale            | Section 002       | LouNat23             | https://github.com/LouNat23/-LouNat23-GitHub-Practice-184 |
 | Zachary Lees            | Section 001       | ZacharyLees          | https://github.com/ZacharyLees?tab=repositories          |       
