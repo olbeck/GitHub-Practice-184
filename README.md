@@ -41,6 +41,8 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
+| Amanda Van Dusen        | Section 002       | amandavd             | https://github.com/amandavd/GitHub-Practice-184          |
+| Chinmay Ghaskadbi       | Section 002       | Chinmay-Ghaskadbi    | https://github.com/Chinmay-Ghaskadbi 
 | Madeleine Willson         | Section 002       | maddwillson            | https://github.com/madddwillson                      |       
 | Louis Natale            | Section 002       | LouNat23             | https://github.com/LouNat23/-LouNat23-GitHub-Practice-184 |
 | Zachary Lees            | Section 001       | ZacharyLees          | https://github.com/ZacharyLees?tab=repositories          |       
@@ -59,6 +61,12 @@
 | Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 | Mohamed Talib Almarri   | Section 002       | m7mdalmarri          | https://github.com/m7mdalmarri/HW-1                      |
 | Kyle Chen               | Section 002       | kchen27              | https://github.com/kchen27/GitHub-Practice-184
+| Caden Summers           | Section 002       | Caden-S              | https://github.com/Caden-S/GitHub-Practice-184           |
+| Akash Koneru            | Section 002       | studentgithub24      | https://github.com/studentgithub24/GitHub-Practice-184   |  
+| Anthony Landmesser      | Section 002       | AnthonyLandmesser    | https://github.com/AnthonyLandmesser/GitHub-Practice-184
+| Daniel Dawson           | Section 002       | djd6132              | https://github.com/djd6132/GitHub-Practice-184           |
+| Elijah Aaron            | Section 002       | era611               | https://github.com/era611/GitHub-Practice-184            |
+
 
 <br>
 
