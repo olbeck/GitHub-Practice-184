@@ -1,6 +1,10 @@
 
 # GitHub Pages Assignment
 
+## jes6521 / GitHub-Practice-184 
+Forked from olbeck
+
+
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine!*
@@ -63,6 +67,7 @@
 | Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git       |
 | Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 | Mohamed Talib Almarri   | Section 002       | m7mdalmarri          | https://github.com/m7mdalmarri/HW-1                      |
+| Jordan Sigler           | Section 002       | JSigler2022          | https://github.com/JSigler2022/jes6521-GitHub-Practice-184 |
 | Joseph Welsh            | Section 002       | JoeWelsh42           | https://github.com/JoeWelsh42/Github-Practice            |
 | Adam Whiteside          | Section 002       | adamwhiteside2       | https://github.com/adamwhiteside2/GitHub-Practice-184    |
 | Sanchita Bhusari        | Section 002       | sanchitabhusari      | https://github.com/sanchitabhusari/Github-Practice       |
