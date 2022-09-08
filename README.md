@@ -1,9 +1,6 @@
 
 # GitHub Pages Assignment
 
-## jes6521 / GitHub-Practice-184 
-Forked from olbeck
-
 
 **(10 pts) Assignment Instructions**
 
