@@ -75,6 +75,7 @@
 | Daniel Dawson           | Section 002       | djd6132              | https://github.com/djd6132/GitHub-Practice-184           |
 | Elijah Aaron            | Section 002       | era611               | https://github.com/era611/GitHub-Practice-184            |
 | Krish Parikh            | Section 002       | kap6006              | https://github.com/kap6006/GitHub-Practice-184           |  
+| Margaret Linn           | Section 002       | mlinn25              | https://github.com/mlinn25/GitHub-Practice-184           |
 
 <br>
 
