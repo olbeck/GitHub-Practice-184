@@ -58,8 +58,8 @@
 | Gavin laurento          | Section 002       | Gsl-Psu              | https://github.com/Gsl-Psu/GitHub-Practice-184.git    |
 | Victoria Ritorto        | Section 002       | victoriaritorto      | https://github.com/victoriaritorto/GitHub-Practice-184   |
 | Mohamed Talib Almarri   | Section 002       | m7mdalmarri          | https://github.com/m7mdalmarri/HW-1                      |
-
-
+| Brooke Sherman          | Section 002       | BrookeSherman03      | https://github.com/BrookeSherman03/GitHub-Practice-184   |
+ 
 
 <br>
 
